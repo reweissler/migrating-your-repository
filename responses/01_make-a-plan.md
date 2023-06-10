@@ -115,7 +115,7 @@ If you don't have a repository to use for this activity, you are welcome to use 
   These migrations are more nuanced and outside the scope of this course. I recommend you go through these steps with a simple repository so you can learn best practices and then apply them to your more complex migration.
 
   <hr>
-</details>
+</details> 
 
 ### Ready to move on?
 
